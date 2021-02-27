@@ -1,0 +1,11 @@
+prefix: "&8[#7F00FF:&lComet#FF6000:&lALS&8]"
+# String that shows up before all chat messages by CometALS
+
+deniedMessage: "&c&lSorry! &7You do not have permission to use &cEntityTag&7 nbt data."
+# String that is displayed when a player doesn't have permission to place Tagged ArmorStands.
+
+permission: "cometals.use"
+# Permission that allows players to place Tagged ArmorStands
+
+config-version: 1.0
+# DO NOT TOUCH!

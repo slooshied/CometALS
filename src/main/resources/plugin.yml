@@ -1,0 +1,7 @@
+name: CometALS
+version: ${project.version}
+main: net.ddns.xhue.cometals.CometALS
+api-version: 1.16
+authors: [ xHue ]
+description: Stop ArmorStands with Long & Laggy Names
+website: xHue.ddns.net
