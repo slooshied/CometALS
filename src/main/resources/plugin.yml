@@ -5,3 +5,12 @@ api-version: 1.16
 authors: [ xHue ]
 description: Stop ArmorStands with Long & Laggy Names
 website: xHue.ddns.net
+commands:
+  carl:
+    description: Reloads the configuration of the plugin.
+    usage: "§c§lIncorrect Usage!§7 Please perform §c§n/ca-rl§7 to properly reload your config."
+    aliases: [ca-rl, cometals-reload, cometals-rl, ca-reload]
+  cometals:
+    description: Reloads the configuration of the plugin.
+    usage: "§c§lIncorrect Usage!§7 Please perform §c§n/ca-help§7 to properly view plugin help."
+    aliases: [ca-help, cals]

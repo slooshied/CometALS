@@ -1,6 +1,6 @@
 package net.ddns.xhue.cometals;
 
-public class ArmorStandData {
+public class EntityData {
 
     private Object EntityTag;
 

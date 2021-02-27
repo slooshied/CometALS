@@ -1,10 +1,6 @@
 package net.ddns.xhue.cometals;
 
-import com.google.common.base.Enums;
-import com.google.common.base.Optional;
-
 import org.bukkit.configuration.file.FileConfiguration;
-import org.bukkit.event.player.PlayerTeleportEvent.TeleportCause;
 import org.bukkit.plugin.java.JavaPlugin;
 
 import java.util.logging.Logger;
