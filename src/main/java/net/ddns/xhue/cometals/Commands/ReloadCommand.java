@@ -1,6 +1,7 @@
-package net.ddns.xhue.cometals.Utils;
+package net.ddns.xhue.cometals.Commands;
 
 import net.ddns.xhue.cometals.ALSConfig;
+import net.ddns.xhue.cometals.Utils.ColorUtils;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;

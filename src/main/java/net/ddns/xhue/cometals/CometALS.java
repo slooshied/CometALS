@@ -1,8 +1,8 @@
 package net.ddns.xhue.cometals;
 
-import net.ddns.xhue.cometals.Utils.CALSCommand;
+import net.ddns.xhue.cometals.Commands.CALSCommand;
 import net.ddns.xhue.cometals.Utils.ColorUtils;
-import net.ddns.xhue.cometals.Utils.ReloadCommand;
+import net.ddns.xhue.cometals.Commands.ReloadCommand;
 import org.bstats.bukkit.Metrics;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
